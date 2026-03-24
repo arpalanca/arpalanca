@@ -25,7 +25,6 @@
 ```js
 const alseus = {
     location: "Davao City, Philippines 🇵🇭",
-    role: "Software Engineer II @ ODR Global, Inc.",
     experience: "10+ years in software development",
     education: [
         "BS Information Technology — STI College Davao",
@@ -37,11 +36,13 @@ const alseus = {
 };
 ```
 
+---
+
+<!-- DAILY.DEV -->
 <div align="center">
-
-| 🏢 Currently building AI-powered applications | 🧠 Passionate about **LLMs, RAG & AI/ML** | ☕ Fueled by coffee & curiosity |
-|:---:|:---:|:---:|
-
+<a href="https://app.daily.dev/arpalanca">
+  <img src="https://api.daily.dev/devcards/v2/SXe140K8frq0QdIuw75ZW.png?r=8rk&type=default" width="356" alt="Alseus Robert Palanca's Dev Card"/>
+</a>
 </div>
 
 ---
@@ -139,54 +140,6 @@ const alseus = {
 
 ---
 
-<!-- CAREER JOURNEY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Career Journey
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><b>📅 Period</b></td>
-<td align="center"><b>💼 Role</b></td>
-<td align="center"><b>🏢 Company</b></td>
-<td align="center"><b>🛠️ Key Tech</b></td>
-</tr>
-<tr>
-<td><code>2023 → Present</code></td>
-<td><b>Software Engineer II</b></td>
-<td>ODR Global, Inc.</td>
-<td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white" /></td>
-</tr>
-<tr>
-<td><code>2020 → 2023</code></td>
-<td><b>Full Stack Developer</b></td>
-<td>Mazuma USA</td>
-<td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /></td>
-</tr>
-<tr>
-<td><code>2016 → 2020</code></td>
-<td><b>Senior Web Developer</b></td>
-<td>Naxum</td>
-<td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></td>
-</tr>
-<tr>
-<td><code>2015 → 2016</code></td>
-<td><b>Web Developer</b></td>
-<td>Segworks Technologies</td>
-<td><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" /></td>
-</tr>
-<tr>
-<td><code>2014 → 2015</code></td>
-<td><b>Android Developer</b></td>
-<td>Freelance</td>
-<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /></td>
-</tr>
-</table>
-
-</div>
-
----
-
 <!-- GITHUB STATS -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Stats
 
@@ -220,15 +173,6 @@ const alseus = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpalanca&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)](https://github.com/arpalanca)
 
-</div>
-
----
-
-<!-- DAILY.DEV -->
-<div align="center">
-<a href="https://app.daily.dev/arpalanca">
-  <img src="https://api.daily.dev/devcards/v2/SXe140K8frq0QdIuw75ZW.png?r=8rk&type=default" width="356" alt="Alseus Robert Palanca's Dev Card"/>
-</a>
 </div>
 
 ---
