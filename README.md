@@ -4,7 +4,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0d47a1&height=220&section=header&text=Alseus%20Robert%20Palanca&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descSize=16&descColor=e2e8f0&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=50&lines=10%2B+Years+Building+Web+%26+AI+Solutions;Crafting+Scalable+%26+Elegant+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=35&lines=10%2B+Years+Building+Web+%26+AI+Solutions;Crafting+Scalable+%26+Elegant+Software)](https://git.io/typing-svg)
+
+<!-- CONNECT -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alseusrobertpalanca@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alseus-robert-palanca-310183179)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alseusrobertpalanca4972)
+[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/arpalanca)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://arpalanca.netlify.app/)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=arpalanca&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -74,10 +85,6 @@ const alseus = {
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=swagger&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-<br/>
-
-> **TALL Stack** &nbsp; | &nbsp; **T**ailwind CSS &nbsp;+&nbsp; **A**lpine.js &nbsp;+&nbsp; **L**aravel &nbsp;+&nbsp; **L**ivewire
 
 </div>
 </details>
@@ -218,8 +225,6 @@ const alseus = {
 ---
 
 <!-- DAILY.DEV -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="News" width="28" /> &nbsp;daily.dev
-
 <div align="center">
 <a href="https://app.daily.dev/arpalanca">
   <img src="https://api.daily.dev/devcards/v2/SXe140K8frq0QdIuw75ZW.png?r=8rk&type=default" width="356" alt="Alseus Robert Palanca's Dev Card"/>
@@ -228,26 +233,7 @@ const alseus = {
 
 ---
 
-<!-- CONNECT -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Connect" width="28" /> &nbsp;Connect with Me
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alseusrobertpalanca@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alseus-robert-palanca-310183179)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alseusrobertpalanca4972)
-[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/arpalanca)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://arpalanca.netlify.app/)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=arpalanca&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0d47a1&height=120&section=footer" width="100%" />
 
